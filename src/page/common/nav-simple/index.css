@@ -1,0 +1,18 @@
+/*
+ * @Author: wyatt 
+ * @Date: 2018-08-13 21:33:01 
+ * @Last Modified by: wyatt
+ * @Last Modified time: 2018-08-13 21:47:51
+ */
+
+.nav-simple{
+    height: 60px;
+    line-height: 60px;
+    border-bottom: 1px solid #ddd;
+    background: #fff;
+}
+.nav-simple .logo{
+    font-size: 26px;
+    font-weight: bold;
+    color: #c60023;
+}
