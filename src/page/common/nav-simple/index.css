@@ -2,7 +2,7 @@
  * @Author: wyatt 
  * @Date: 2018-08-13 21:33:01 
  * @Last Modified by: wyatt
- * @Last Modified time: 2018-08-13 21:47:51
+ * @Last Modified time: 2018-08-22 13:51:48
  */
 
 .nav-simple{
@@ -15,4 +15,5 @@
     font-size: 26px;
     font-weight: bold;
     color: #c60023;
+    text-decoration: none;
 }

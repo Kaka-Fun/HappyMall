@@ -2,7 +2,7 @@
  * @Author: wyatt 
  * @Date: 2018-08-13 22:10:55 
  * @Last Modified by: wyatt
- * @Last Modified time: 2018-08-14 14:32:42
+ * @Last Modified time: 2018-08-22 14:46:36
  */
 
 
@@ -17,7 +17,7 @@ var nav = {
     init : function(){
         this.bindEvent();
         this.loadUserInfo();
-        this.loadCartCount();
+        // this.loadCartCount();
         return this;
     },
     bindEvent : function(){

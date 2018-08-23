@@ -2,7 +2,7 @@
  * @Author: wyatt 
  * @Date: 2018-08-07 23:06:08 
  * @Last Modified by: wyatt
- * @Last Modified time: 2018-08-13 22:01:54
+ * @Last Modified time: 2018-08-22 13:45:53
  */
 /* css reset */
 *{
@@ -34,9 +34,26 @@ input[type='checkout']{
     position: relative;
     overflow: hidden;
 }
+/* panel */
+.panel{
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #fff;
+}
+.panel .panel-title{
+    padding: 10px;
+    font-size: 14px;
+    color: #666;
+    font-weight: bold;
+    border-bottom: 1px solid #eee;
+}
+.panel .panel-body{
+    padding: 10px;
+    overflow: hidden;
+}
 /* 全局通用样式 */
 /* 隐藏类 */
-。hide{
+.hide{
     display: none;
 }
 .link{

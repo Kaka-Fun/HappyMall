@@ -70,7 +70,7 @@ var _mm = {
         }
          // 手机号验证
         if ('phone' === type) {
-            /^1\d{10}$/.test(value);
+            return /^1\d{10}$/.test(value);
         }
         // 邮箱格式验证
         if('email' === type){
